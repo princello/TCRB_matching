@@ -32,5 +32,3 @@ This repository contains scripts and functions designed to process, analyze, and
 The code enables a comprehensive comparison and integration of 10X TCR sequencing data with Adaptive TRB sequencing data, emphasizing relevant T-cell receptor sequences and their characteristics.
 
 ---
-
-This summary provides an overview of the scripts and functions within the repository, streamlining users' understanding of the purpose and utility of the code.
