@@ -2,7 +2,7 @@
 
 ---
 
-## Introduction: TCR Sequencing Data Processing**
+## **Introduction: TCR Sequencing Data Processing**
 
 This repository contains scripts and functions designed to process, analyze, and link T-cell receptor (TCR) sequencing data. The focus is on comparing data generated from 10X Genomics TCR sequencing and Adaptive TRB sequencing to extract meaningful insights from TCR sequences.
 
